@@ -21,8 +21,11 @@ In e-commerce, customer retention hinges on understanding feedback at scale. Thi
 ---
 
 ## 📁 Repository Structure
+Code output
+SUCCESS
 
-streamlit-ml-nlp-review-app
+```text
+streamlit-ml-nlp-review-app/
 │
 ├── data/                          # Organized dataset storage
 │   ├── raw/                       # Original, untouched Kaggle CSV
